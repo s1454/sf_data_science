@@ -1,12 +1,12 @@
 # Проект 1. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
+[2. Какой кейс решаем?](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
+[3. Краткая информация о данных](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
+[4. Этапы работы над проектом](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
+[5. Результат](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)    
+[6. Выводы](https://github.com/s1454/sf_data_science/tree/main/unit1.project1) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
