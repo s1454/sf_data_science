@@ -1,17 +1,16 @@
 # Проект 1. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
-[2. Какой кейс решаем?](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
-[3. Краткая информация о данных](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
-[4. Этапы работы над проектом](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)  
-[5. Результат](https://github.com/s1454/sf_data_science/tree/main/unit1.project1)    
-[6. Выводы](https://github.com/s1454/sf_data_science/tree/main/unit1.project1) 
-
+[1. Описание проекта](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Результат)    
+[6. Выводы](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Выводы) 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
 
 
 ### Какой кейс решаем?    
@@ -29,27 +28,30 @@
 
 
 ### Краткая информация о данных
-....
+Данных нет 
+
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
 
 
 ### Этапы работы над проектом  
-....
+Помимо написания кода пришлось освоить взаимодействие с платформой GitHub.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](.https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
 
 
 ### Результаты:  
-....
+Угадывание загаданного числа производится в среднем за 11 шагов.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
 
 
 ### Выводы:  
-....
+Платформа GitHub - довольно удобная среда для оформления проектов, для работы с ней необходимо набираться опыта.
+Написание кода является лишь частью продукта, предоставляемого заказчику или колегам по профессии.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+:arrow_up:[к оглавлению](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
