@@ -37,7 +37,7 @@
 ### Этапы работы над проектом  
 Помимо написания кода пришлось освоить взаимодействие с платформой GitHub.
 
-:arrow_up:[к оглавлению](.https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
+:arrow_up:[к оглавлению](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Оглавление_)
 
 
 ### Результаты:  
