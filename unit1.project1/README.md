@@ -1,4 +1,4 @@
-# Проект 1. Угадай число
+# Проект 0. Угадай число
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/s1454/sf_data_science/tree/main/unit1.project1/README.md#Описание-проекта)  
