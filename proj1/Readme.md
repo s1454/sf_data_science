@@ -22,8 +22,7 @@
 ### Краткая информация о данных
 Датасет состоит из 44744 строк и 12 признаков.
 Ссылки на используемые данные:
-#https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
-#https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip
+https://drive.google.com/drive/folders/1irzI0uVGnx4bVji0Eqkz-HGveyWMNv6A?usp=sharing
 
 :arrow_up:[к оглавлению]()
 
