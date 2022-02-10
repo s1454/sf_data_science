@@ -1,7 +1,7 @@
 ## Проект 1. Анализ резюме с сайта поиска вакансий hh.ru
 # Юнит № 1. 
 ## Оглавление
-[1. Описание проекта](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md) 
+[1. Описание проекта](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md#описание-проекта) 
 [2. Какой кейс решаем?](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md) 
 [3. Краткая информация о данных](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md) 
 [4. Этапы работы над проектом](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md)
