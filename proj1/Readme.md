@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md#какой-кейс-решаем) 
 [3. Краткая информация о данных](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md#краткая-информация-о-данных) 
 [4. Этапы работы над проектом](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md#этапы-работы-над-проектом)
-[5. Выводы](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md)
+[5. Выводы](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md#выводы)
 [6. Что практикуем](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md)
  
 ###   Описание проекта
