@@ -29,6 +29,7 @@
 Датасет состоит из 44744 строк и 12 признаков.
 Ссылки на используемые данные:
 https://drive.google.com/drive/folders/1irzI0uVGnx4bVji0Eqkz-HGveyWMNv6A?usp=sharing
+Ссылка на диаграммы: https://drive.google.com/drive/folders/1vBJA_2RxOF3aRUWUUPyl720GnDpQP6KK?usp=sharing
 
 :arrow_up:[к оглавлению](https://github.com/s1454/sf_data_science/blob/main/proj1/Readme.md)
 
